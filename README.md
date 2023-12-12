@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!👋 <p> I'm Nataliia </p>✨</h1>
+<h1 align="center">Hey there!👋 <p> I'm Nataliia ✨ </p></h1>
 <h3 align="center">An enthusiastic QA specialist focused on delivering superior user-centric products.</h3>
 
 <h3 align="left">Connect with me:</h3>
