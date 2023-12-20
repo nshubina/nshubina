@@ -1,5 +1,5 @@
 <h1 align="center">Hey there!👋</h1>
-<h3 align="center">An enthusiastic QA specialist focused on delivering superior user-centric products.</h3>
+<h3 align="center">I'm an enthusiastic QA specialist dedicated to delivering superior, user-centric products.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
