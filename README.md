@@ -1,3 +1,4 @@
+[![Header](https://github.com/nshubina/nshubina/blob/main/Assets/1600w-eEN5zzEf5VA.jpeg)]
 <h1 align="center">Hey there!👋</h1>
 <h3 align="center">I'm an enthusiastic QA specialist dedicated to delivering superior, user-centric products.</h3>
 
