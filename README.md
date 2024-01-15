@@ -1,5 +1,5 @@
 ![Header](https://github.com/nshubina/nshubina/blob/main/Assets/1600w-eEN5zzEf5VA.jpeg)
-<h1 align="center">Hey there 👋 <br><br> <p> Welcome to my GitHub 😎</p></h1>
+<h1 align="center">Hey there 👋 <br> <p> Welcome to my GitHub 😎</p></h1>
 <h3 align="center">I am an enthusiastic QA specialist focused on delivering superior user-centric products.</h3>
 <br>
 
