@@ -14,7 +14,7 @@
 ## 🖥️ Testing web-applications:
 
 <div>
-  <a href="https://developer.chrome.com/docs/devtools"target="_blank" rel="noreferrer"><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/></a>
+  <a href="https://developer.chrome.com/docs/devtools"target="_blank" rel="noreferrer"><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/> &nbsp</a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="40" height="40"/></a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="./Assets/swagger.svg" title="swagger" alt="swagger" width="40" height="40"></a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="seleniumWebDriver" alt="seleniumWebDriver" width="40" height="40"/></a> 
