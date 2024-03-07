@@ -1,15 +1,14 @@
-<h1 align="center">Hey there 👋 <br><br> <p> Welcome to my GitHub 😎</p></h1>
+<h1 align="center">Hey there 👋 <br><br> Welcome to my GitHub </h1>
 <h3 align="center">I am an enthusiastic QA specialist focused on delivering superior user-centric products.</h3>
 <br>
 
 ## About Me
 
-- 💻 QA engineer with 3+ years experience.
+- 💻 QA engineer with 3+ years of experience.
 - 🎯 I find joy in testing web applications.
-- 🌱 Exploring exploratory testing and automation is currently my focus.
-- 👀 Application of my analytical skills to identify potential. vulnerabilities and enhance software quality is of great interest to me.
-- ✍️ I am an avid learner and always eager to explore new technologies and expand my skill set.
-- 💪 Embracing fresh challenges consistently fuels my enthusiasm. 
+- 🌱I am actively working on improving my analytical skills in testing.
+- 👀 Application of my analytical skills to identify potential vulnerabilities and enhance software quality is of great interest to me.
+- ✍️ I am an avid learner and always eager to explore new technologies and expand my skill set. 
   
 ##  Testing web-applications:
 
