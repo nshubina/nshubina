@@ -57,7 +57,7 @@
 <div>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/></a>
     &nbsp;
-    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-visual-studio-logo-9E65CA55F8-seeklogo.com.png" title="vscode" alt="vscode" width="40" height="40"/></a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg" title="visual studio" alt="visual studio" width="40" height="40"/></a>
     &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  
     &nbsp;
