@@ -25,7 +25,7 @@
 ##  Work with databases:
 
 <div>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://github.com/nshubina/Portfolio/tree/52d665bfe6d2fded391c328a2b23e84626bb1c79/NoSQL/MongoDB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongodb" width="40" height="40"/></a>
   &nbsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MSSQL" alt="mssql" width="40" height="40"/></a> 
   &nbsp;
