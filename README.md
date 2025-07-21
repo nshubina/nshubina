@@ -17,7 +17,7 @@
   &nbsp;
   <a href="https://github.com/nshubina/Portfolio/tree/52d665bfe6d2fded391c328a2b23e84626bb1c79/API%20Testing/PetStore%20API" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="40" height="40"/></a>
   &nbsp;
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="./Assets/swagger.svg" title="swagger" alt="swagger" width="40" height="40"></a>
+  <a href="https://github.com/nshubina/Portfolio/tree/52d665bfe6d2fded391c328a2b23e84626bb1c79/API%20Testing/PetStore%20API" target="_blank" rel="noreferrer"><img src="./Assets/swagger.svg" title="swagger" alt="swagger" width="40" height="40"></a>
   &nbsp;
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="seleniumWebDriver" alt="seleniumWebDriver" width="40" height="40"/></a>
 </div>
