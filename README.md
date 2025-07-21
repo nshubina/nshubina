@@ -8,7 +8,7 @@
 - 🎯 I find joy in testing web applications.
 - 🌱I am actively working on improving my analytical skills in testing.
 - 👀 Application of my analytical skills to identify potential vulnerabilities and enhance software quality is of great interest to me.
-- ✍️ I am an avid learner and always eager to explore new technologies and expand my skill set. 
+- ✍️ I am an avid learner and always eager to explore new technologies and expand my skill set.
   
 ##  Testing web-applications:
 
@@ -63,3 +63,5 @@
     &nbsp;
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
 </div>  
+
+Here you can see my portfolio: <a href="https://github.com/nshubina/Portfolio" target="_blank">My Portfolio </a>
