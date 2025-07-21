@@ -48,7 +48,7 @@
   &nbsp;
   <a href="https://clickup.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" title="AdobeXD" alt="adobeHD" width="40" height="40"/></a>
   &nbsp;
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" title="jira" alt="jira" width="40" height="40"/></a>
+  <a href="https://github.com/nshubina/Portfolio/blob/52d665bfe6d2fded391c328a2b23e84626bb1c79/Bug%20reports/Testomat.io%20bug%20reports.pdf" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" title="jira" alt="jira" width="40" height="40"/></a>
   &nbsp;
   <a href="https://clickup.com/" target="_blank" rel="noreferrer"><img src=".\Assets\ClickUpLogo.png" title="ClickUp" alt="ClickUp" width="40" height="40"/></a>
 
