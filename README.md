@@ -52,7 +52,7 @@
   &nbsp;
   <a href="https://clickup.com/" target="_blank" rel="noreferrer"><img src=".\Assets\ClickUpLogo.png" title="ClickUp" alt="ClickUp" width="40" height="40"/></a>
   &nbsp;
-  <a href="https://testomat.io/" target="_blank" rel="noreferrer"><img src="https://testomat.io/wp-content/uploads/2021/12/logo.svg" title="Testomat.io" alt="Testomat.io"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://app.testomat.io/images/logo/icons/128x128.svg" title="Testomat.io" alt="Testomat.io" width="40" height="40"></a>
 
 ##  Work with code:
 
