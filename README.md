@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 <br> Welcome to my GitHub </h1>
+<h1 align="center">Hey there 👋 <br><br> Welcome to my GitHub </h1>
 <h3 align="center">I am a QA specialist focused on delivering superior user-centric products.</h3>
 <br>
 
