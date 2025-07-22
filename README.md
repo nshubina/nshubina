@@ -52,6 +52,8 @@
   &nbsp;
   <a href="https://clickup.com/" target="_blank" rel="noreferrer"><img src=".\Assets\ClickUpLogo.png" title="ClickUp" alt="ClickUp" width="40" height="40"/></a>
   &nbsp;
+  <a href="https://clickup.com/" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/idTk1PqkG8/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1747754183650"  title="TestRail" alt="TestRail" width="40" height="40"/></a>
+  &nbsp;
   <a href="https://github.com/nshubina/Portfolio/blob/52d665bfe6d2fded391c328a2b23e84626bb1c79/Test%20Plan/Test%20Plan%20for%20Testomat.io%20project.pdf" target="_blank" rel="noreferrer"><img src="https://app.testomat.io/images/logo/icons/128x128.svg" title="Testomat.io" alt="Testomat.io" width="40" height="40"></a>
 
 ##  Work with code:
